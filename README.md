@@ -1,2 +1,2 @@
-# faceDetect
-This web app detects the face in any image given to it
+# faceDetectApi
+This Api for the face detection app built with node and express
