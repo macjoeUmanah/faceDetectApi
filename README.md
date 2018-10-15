@@ -1,2 +1,15 @@
 # faceDetectApi
-This is the Api for the face detection app built with node and express
+This is the Api(server) for the face detection app .
+
+
+Clone the repo
+
+
+
+npm install
+
+
+
+npm start
+
+
